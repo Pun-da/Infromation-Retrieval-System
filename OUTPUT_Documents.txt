@@ -1,0 +1,6 @@
+henry-vi-part-2_TXT_FolgerShakespeare.txt
+titus-andronicus_TXT_FolgerShakespeare.txt
+julius-caesar_TXT_FolgerShakespeare.txt
+antony-and-cleopatra_TXT_FolgerShakespeare.txt
+hamlet_TXT_FolgerShakespeare.txt
+henry-v_TXT_FolgerShakespeare.txt
